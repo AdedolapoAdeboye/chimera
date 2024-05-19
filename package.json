@@ -1,0 +1,19 @@
+{
+  "name": "Chimera",
+  "version": "1.0A",
+  "description": "A Telegram bot to manage group autonomously with advanced features like Dynamic learning and many more",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "compromise": "^13.11.1",
+    "node-schedule": "^2.1.0",
+    "pdf-parse": "^1.1.1",
+    "sqlite3": "^5.0.2",
+    "telegraf": "^4.0.1"
+  },
+  "author": "Adedolapo Adeboye",
+  "license": "ISC"
+}
